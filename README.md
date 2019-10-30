@@ -1,1 +1,1 @@
-# Real-world JavaScript interview questions submitted by developers who experienced them.
+# Real-world JavaScript interview questions submitted by interviewees.
