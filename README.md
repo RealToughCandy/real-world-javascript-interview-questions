@@ -2,6 +2,8 @@
 
 At a developer interview lately? What JS questions were you asked? 
 
+- ### How to add timestamps in all the console.logs without modifying console logs manually.
+
 - ### Complete the [Insubuy Code Challenge](https://github.com/IB-IT/Insubuy-Code-Challenge)
 
 _Submitted 8 November 2019 via RTC email by Edward W._
