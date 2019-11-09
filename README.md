@@ -2,6 +2,10 @@
 
 At a developer interview lately? What JS questions were you asked? 
 
+### Complete the [Insubuy Code Challenge](https://github.com/IB-IT/Insubuy-Code-Challenge)
+
+_Submitted 8 November 2019 via RTC email by Edward W._
+
 
 ### Build a traffic light (semaphore). A black rectangle with 3 circles (lights: red, yellow, green) on it. There can only be one light on at a time. When I click on it, one light turns ON and the others turn OFF.
 - 20 minute time limit
