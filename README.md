@@ -3,6 +3,8 @@
 At a developer interview lately? What JS questions were you asked? 
 
 - ### Complete the [Insubuy Code Challenge](https://github.com/IB-IT/Insubuy-Code-Challenge)
+  * 48-hour time limit
+  * Applicant asked for additional day to complete challenge and was granted extension
 
 _Submitted 8 November 2019 via RTC email by Edward W._
  
