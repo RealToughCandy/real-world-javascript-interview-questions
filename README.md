@@ -1,4 +1,5 @@
-At a developer interview lately? What JS questions were you asked? 
+At a developer interview lately? What JS questions were you asked?
+
 Additional contextual information may include: 
 - how much time applicant was given to solve the problem 
 - whether or not applicant was allowed to use additional resources to solve the problem (i.e. Google) 
