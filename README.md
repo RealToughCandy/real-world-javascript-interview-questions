@@ -13,29 +13,29 @@ Additional contextual information may include:
   * 48-hour time limit
   * Applicant asked for additional day to complete challenge and was granted extension
 
-_Submitted 8 November 2019 via RTC email by Edward W._
+<sub><sup>_Submitted 8 November 2019 via RTC email by Edward W._</sub></sup>
  
 - ### Build a traffic light (semaphore). A black rectangle with 3 circles (lights: red, yellow, green) on it. There can only be one light on at a time. When I click on it, one light turns ON and the others turn OFF.
   * 20 minute time limit
   * Applicants can use whatever dependencies they want
 
-_Submitted 8 November 2019 via [RTC Discord](https://discord.gg/68yMWzV) by Jordan W._
+<sub><sup>_Submitted 8 November 2019 via [RTC Discord](https://discord.gg/68yMWzV) by Jordan W._</sub></sup>
 
 - ### How does garbage collection work in JavaScript?
 
-_Submitted 8 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Half Maltese Falcon_
+<sub><sup>_Submitted 8 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Half Maltese Falcon_</sub></sup>
 
 - ### Explain event bubbling.
 
-_Submitted 8 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Chris M._
+<sub><sup>_Submitted 8 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Chris M._</sub></sup>
 
 
 - ### How to sort an array.
 
-_Submitted 7 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Christopher D._
+<sub><sup>_Submitted 7 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Christopher D._</sub></sup>
 
 - ### How to show an alert box after a mouse click?
 
-_Submitted 7 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Leondri S._
+<sub><sup>_Submitted 7 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Leondri S._</sub></sup>
 
 
