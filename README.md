@@ -1,8 +1,8 @@
 At a developer interview lately? What JS questions were you asked? 
-You may also add contextual information such as: 
-- how much time you were given to solve the problem 
-- whether or not you were allowed to use additional resources to solve the problem (i.e. Google) 
-- the job title
+Additional contextual information may include: 
+- how much time applicant was given to solve the problem 
+- whether or not applicant was allowed to use additional resources to solve the problem (i.e. Google) 
+- job title
 
 # Real-world JavaScript interview questions submitted by interviewees.
 
