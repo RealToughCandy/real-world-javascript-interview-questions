@@ -9,6 +9,8 @@ Additional contextual information may include:
 
 ***
 
+- ### How to add timestamps in all the console.logs without modifying console logs manually.
+
 - ### Complete the [Insubuy Code Challenge](https://github.com/IB-IT/Insubuy-Code-Challenge)
   * 48-hour time limit
   * Applicant asked for additional day to complete challenge and was granted extension
