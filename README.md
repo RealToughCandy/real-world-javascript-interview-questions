@@ -11,6 +11,8 @@ Additional contextual information may include:
 
 - ### How to add timestamps in all the console.logs without modifying console logs manually.
 
+<sub><sup>_Submitted 9 November 2019 via GitHub by [tnvr-bhatia](https://github.com/RealToughCandy/real-world-javascript-interview-questions/commit/cebdd23e869d13dd91bc6c8ef6e007d302ddbac8)_</sub></sup>
+
 - ### Complete the [Insubuy Code Challenge](https://github.com/IB-IT/Insubuy-Code-Challenge)
   * 48-hour time limit
   * Applicant asked for additional day to complete challenge and was granted extension
