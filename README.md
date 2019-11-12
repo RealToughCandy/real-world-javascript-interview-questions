@@ -42,4 +42,6 @@ Additional contextual information may include:
 
 <sub><sup>_Submitted 7 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Leondri S._</sub></sup>
 
+- ### Explain object oriented programming.
 
+<sub><sup>Submitted 12 November 2019 by [IlyasEzz](https://github.com/ilyasEzz).</sub></sup>
