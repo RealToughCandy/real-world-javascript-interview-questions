@@ -9,9 +9,13 @@ Additional contextual information may include:
 
 ***
 
+- ### Explain object oriented programming.
+
+<sub><sup>Submitted 12 November 2019 via GitHub by [IlyasEzz](https://github.com/ilyasEzz).</sub></sup>
+
 - ### How to add timestamps in all the console.logs without modifying console logs manually.
 
-<sub><sup>_Submitted 9 November 2019 via GitHub by [tnvr-bhatia](https://github.com/RealToughCandy/real-world-javascript-interview-questions/commit/cebdd23e869d13dd91bc6c8ef6e007d302ddbac8)_</sub></sup>
+<sub><sup>_Submitted 9 November 2019 via GitHub by [tnvr-bhatia](https://github.com/tnvr-bhatia)_</sub></sup>
 
 - ### Complete the [Insubuy Code Challenge](https://github.com/IB-IT/Insubuy-Code-Challenge)
   * 48-hour time limit
@@ -41,7 +45,3 @@ Additional contextual information may include:
 - ### How to show an alert box after a mouse click?
 
 <sub><sup>_Submitted 7 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Leondri S._</sub></sup>
-
-- ### Explain object oriented programming.
-
-<sub><sup>Submitted 12 November 2019 by [IlyasEzz](https://github.com/ilyasEzz).</sub></sup>
