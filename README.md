@@ -9,6 +9,10 @@ Additional contextual information may include:
 
 ***
 
+- ### Complete the [Olympic Challenge](https://github.com/RealToughCandy/olympic-challenge).
+  
+<sub><sup>_Submitted 12 November 2019 via [YouTube](https://www.youtube.com/watch?v=k42uxd7WmfQ) by RunOS._</sub></sup>
+
 
 - ### Build a todo list with no JavaScript framework.
   * Applicant had 1 hour to solve 
