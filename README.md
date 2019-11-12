@@ -11,7 +11,7 @@ Additional contextual information may include:
 
 - ### Explain object oriented programming.
 
-<sub><sup>Submitted 12 November 2019 via GitHub by [IlyasEzz](https://github.com/ilyasEzz).</sub></sup>
+<sub><sup>_Submitted 12 November 2019 via GitHub by [IlyasEzz](https://github.com/ilyasEzz)._</sub></sup>
 
 - ### How to add timestamps in all the console.logs without modifying console logs manually.
 
