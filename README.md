@@ -9,7 +9,14 @@ Additional contextual information may include:
 
 ***
 
-- ### Explain object oriented programming.
+
+- ### Build a todo list with no JavaScript framework.
+  * Applicant had 1 hour to solve 
+  * Could access the web for help
+
+<sub><sup>_Submitted 12 November 2019 via GitHub by [miladganjali](https://github.com/miladganjali)._</sub></sup>
+
+- ### Explain object-oriented programming.
 
 <sub><sup>_Submitted 12 November 2019 via GitHub by [IlyasEzz](https://github.com/ilyasEzz)._</sub></sup>
 
@@ -26,6 +33,7 @@ Additional contextual information may include:
 - ### Build a traffic light (semaphore). A black rectangle with 3 circles (lights: red, yellow, green) on it. There can only be one light on at a time. When I click on it, one light turns ON and the others turn OFF.
   * 20 minute time limit
   * Applicants can use whatever dependencies they want
+  * Could access the web for help
 
 <sub><sup>_Submitted 8 November 2019 via [RTC Discord](https://discord.gg/68yMWzV) by Jordan W._</sub></sup>
 
@@ -45,6 +53,3 @@ Additional contextual information may include:
 - ### How to show an alert box after a mouse click?
 
 <sub><sup>_Submitted 7 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Leondri S._</sub></sup>
-
-- ### Build todo list with no javascript framework
-<sub>should solved with in one houre and yur free to use google</sub>
