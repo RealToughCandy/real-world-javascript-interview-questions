@@ -45,3 +45,6 @@ Additional contextual information may include:
 - ### How to show an alert box after a mouse click?
 
 <sub><sup>_Submitted 7 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Leondri S._</sub></sup>
+
+- ### Build todo list with no javascript framework
+<sub>should solved with in one houre and yur free to use google</sub>
