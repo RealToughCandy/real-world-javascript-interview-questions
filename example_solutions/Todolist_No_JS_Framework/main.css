@@ -6,9 +6,131 @@
 
 body, input, button {
 	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+	color: var(--text-color);
 }
 
 :root {
 	--theme-color: #27ae60;
-	--text-color: #333333;
+	--text-color: #222222;
 }
+
+/* container */
+body > div.container {
+	width: 600px;
+	float: left;
+	padding: 2.5rem calc((100% - 600px) / 2);
+}
+
+/* header and app */
+body > div.container > header.title, body > div.container > div.app {
+	display: block;
+	float: left;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+
+/* header */
+body > div.container > header.title {
+	margin-bottom: 2.5rem;
+	text-align: center;
+}
+body > div.container > header.title > h1 {
+	font-size: 2.75rem;
+	line-height: 1.5;
+	margin-bottom: 0.25rem;
+}
+body > div.container > header.title > p {
+	font-size: 1.25rem;
+	opacity: 0.65;
+}
+
+/* app */
+body > div.container > div.app > div.row {
+	display: block;
+	width: 100%;
+	margin-bottom: 1rem;
+	padding: 1rem;
+	background-color: #f8f8f8;
+	border-radius: 4px;
+	border: 1px solid #dedede;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+/* add todo section */
+body > div.container > div.app > div.new_todo_box > button, body > div.container > div.app > div.new_todo_box > input {
+	border: none;
+	background-color: #ffffff;
+	height: 3rem;
+	display: block;
+	float: left;
+	outline: none;
+	border: 1px solid #dedede;
+	box-sizing: border-box;
+}
+body > div.container > div.app > div.new_todo_box > button {
+	width: 3rem;
+	border-left: none;
+	padding: 0.8rem;
+	cursor: pointer;
+}
+body > div.container > div.app > div.new_todo_box > button:hover {
+	background-color: #f0f0f0;
+}
+body > div.container > div.app > div.new_todo_box > button > svg {
+	height: 100%;
+	width: 100%;
+}
+body > div.container > div.app > div.new_todo_box > input {
+	width: calc(100% - 3rem);
+	padding: 0 1rem;
+	font-size: 1.15rem;
+}
+body > div.container > div.app > div.new_todo_box > input:focus {
+	border-left-color: var(--text-color);
+	border-right-color: var(--text-color);
+	border-top-color: var(--text-color);
+	border-bottom-color: var(--text-color);
+}
+body > div.container > div.app > div.new_todo_box > input:focus + button {
+	border-right-color: var(--text-color);
+	border-top-color: var(--text-color);
+	border-bottom-color: var(--text-color);
+}
+
+/* todo */
+body > div.container > div.app > div.todo {
+	display: block;
+	overflow: hidden;
+}
+body > div.container > div.app > div.todo > p.todo_content, body > div.container > div.app > div.todo > button.remove_btn {
+	border: none;
+	min-height: 3rem;
+	display: block;
+	float: left;
+	outline: none;
+	box-sizing: border-box;
+}
+body > div.container > div.app > div.todo > button.remove_btn {
+	width: 3rem;
+	padding: 0.8rem;
+	cursor: pointer;
+	background-color: #ffffff;
+	border: 1px solid #dedede;
+}
+body > div.container > div.app > div.todo > button.remove_btn:hover {
+	background-color: #f0f0f0;
+}
+body > div.container > div.app > div.todo > button.remove_btn > svg {
+	height: 100%;
+	width: 100%;
+}
+body > div.container > div.app > div.todo > p.todo_content {
+	width: calc(100% - 3rem);
+	font-size: 1.3rem;
+	line-height: 1.5rem;
+	padding: 0.75rem 0;
+	padding-right: 1rem;
+}
+
