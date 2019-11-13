@@ -14,7 +14,7 @@ Additional contextual information may include:
 <sub><sup>_Submitted 12 November 2019 via [YouTube](https://www.youtube.com/watch?v=k42uxd7WmfQ) by RunOS._</sup></sub>
 
 
-- ### Build a todo list with no JavaScript framework.
+- ### Build a todo list with no JavaScript framework. ([ex. solution by @xtrp](example_solutions/Todolist_No_JS_Framework/))
   * Applicant had 1 hour to solve 
   * Could access the web for help
 
@@ -34,7 +34,7 @@ Additional contextual information may include:
 
 <sub><sup>_Submitted 8 November 2019 via RTC email by Edward W._</sup></sub>
  
-- ### Build a traffic light (semaphore). A black rectangle with 3 circles (lights: red, yellow, green) on it. There can only be one light on at a time. When I click on it, one light turns ON and the others turn OFF.
+- ### Build a traffic light (semaphore). A black rectangle with 3 circles (lights: red, yellow, green) on it. There can only be one light on at a time. When I click on it, one light turns ON and the others turn OFF. ([ex. solution by @xtrp](example_solutions/Interactive_Traffic_Light/))
   * 20 minute time limit
   * Applicants can use whatever dependencies they want
   * Could access the web for help
@@ -50,10 +50,10 @@ Additional contextual information may include:
 <sub><sup>_Submitted 8 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Chris M._</sup></sub>
 
 
-- ### How to sort an array.
+- ### How to sort an array. ([ex. solution by @xtrp](example_solutions/Sort_Array/))
 
 <sub><sup>_Submitted 7 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Christopher D._</sup></sub>
 
-- ### How to show an alert box after a mouse click?
+- ### How to show an alert box after a mouse click? ([ex. solution by @xtrp](example_solutions/Show_Alert_Box_After_Mouse_Click/))
 
 <sub><sup>_Submitted 7 November 2019 via [RTC Twitter](https://twitter.com/realtoughcandy/status/1192558596858490889) by Leondri S._</sup></sub>
