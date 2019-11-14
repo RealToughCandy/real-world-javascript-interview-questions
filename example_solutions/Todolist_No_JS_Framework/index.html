@@ -1,0 +1,37 @@
+<!--
+
+This solution was written by @xtrp (Fred Adams). Check out his website at https://xtrp.io/, and his GitHub at https://github.com/xtrp/
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>TodoList App with no JavaScript Framework</title>
+
+	<link rel="stylesheet" href="main.css">
+	<link rel="shortcut icon" href="favicon.ico">
+</head>
+<body>
+	<div class="container">
+		<header class="title">
+			<h1>TodoList</h1>
+			<p>With no JavaScript Framework</p>
+		</header>
+		<div class="app">
+			<div class="row new_todo_box">
+				<input type="text" placeholder="New Todo...">
+				<button onclick="addTodo();">
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z"/></svg>
+				</button>
+			</div>
+		</div>
+	</div>
+
+	<script src="script.js"></script>
+</body>
+</html>
