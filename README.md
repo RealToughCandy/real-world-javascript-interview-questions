@@ -9,6 +9,12 @@ Additional contextual information may include:
 
 ***
 
+- ### Please output the optimal HTML, CSS and JS to render [these boxes](https://github.com/RealToughCandy/real-world-javascript-interview-questions/blob/master/images/Change%20box%20colors.jpeg) where clicking on a box changes the color of the box to red. 
+
+<sub><sup>_Submitted 14 November 2019 via [Twitter](https://twitter.com/sametmutevelli/status/1195040695951605760) by Samet M._</sup></sub>
+
+
+
 - ### Complete the [Olympic Challenge](https://github.com/RealToughCandy/olympic-challenge).
   
 <sub><sup>_Submitted 12 November 2019 via [YouTube](https://www.youtube.com/watch?v=k42uxd7WmfQ) by RunOS._</sup></sub>
