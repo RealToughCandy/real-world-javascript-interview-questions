@@ -9,6 +9,12 @@ Additional contextual information may include:
 
 ***
 
+- ### Write a function that takes a DOM element and smoothly animates it from its current position to distance pixels to the right over duration milliseconds. Implement the following function, `animate(el, milliseconds, distance)`
+  * Asked as part of a phone screen interview for Facebook position
+  * Implement this function without using jQuery or any other third-party libraries
+
+<sub><sup>_Discovered 18 December 2019 via [Dev.to](https://dev.to/coderbyte/a-javascript-interview-question-asked-at-facebook-27po)_</sup></sub>
+
 - ### Please output the optimal HTML, CSS and JS to render [these boxes](https://github.com/RealToughCandy/real-world-javascript-interview-questions/blob/master/images/Change%20box%20colors.jpeg) where clicking on a box changes the color of the box to red. 
 
 <sub><sup>_Submitted 14 November 2019 via [Twitter](https://twitter.com/sametmutevelli/status/1195040695951605760) by Samet M._</sup></sub>
