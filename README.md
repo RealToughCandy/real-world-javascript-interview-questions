@@ -4,7 +4,7 @@ Additional contextual information may include:
 - how much time applicant was given to solve the problem 
 - whether or not applicant was allowed to use additional resources to solve the problem (i.e. Google) 
 - job title
-- Type of interview
+- type of interview
 
 # Real-world JavaScript interview questions submitted by interviewees.
 
