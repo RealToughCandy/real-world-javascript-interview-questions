@@ -6,7 +6,7 @@ Additional contextual information may include:
 - job title
 - type of interview
 
-# Real-world JavaScript interview questions submitted by interviewees.
+# Real-world JavaScript interview questions.
 
 ***
 
