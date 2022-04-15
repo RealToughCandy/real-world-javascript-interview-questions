@@ -1,4 +1,4 @@
-At a developer interview lately? What JS questions were you asked?
+At a web developer interview lately? What JavaScript questions were you asked?
 
 Additional contextual information may include: 
 - how much time applicant was given to solve the problem 
