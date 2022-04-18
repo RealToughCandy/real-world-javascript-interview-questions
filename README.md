@@ -6,7 +6,7 @@ Additional contextual information may include:
 - job title
 - type of interview
 
-**This project was made possible by my [financial supporters via PayPal](https://www.paypal.me/toughcandy), including Chiquito. 🍻 Thank you!**
+**This project was made possible by my [financial supporters via PayPal](https://www.paypal.me/toughcandy), including Chiquito. ⚡️ Thank you!**
 
 
 # Real-world JavaScript interview questions.
